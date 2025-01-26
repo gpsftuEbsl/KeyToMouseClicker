@@ -40,19 +40,6 @@ vector<Key> keys = {
     {VK_NUMPAD1, screenWidth * 10 / 16, screenHeight * 6 / 8},
     {VK_NUMPAD6, screenWidth * 53 / 64, screenHeight * 9 / 16}
 };
-/*
-Soul Knight
-vector<Key> keys = {
-{ 'W', screenWidth * 15 / 64, screenHeight * 5 / 8 },
-{ 'S', screenWidth * 15 / 64, screenHeight * 7 / 8 },
-{ 'A', screenWidth * 11 / 64, screenHeight * 6 / 8 },
-{ 'D', screenWidth * 19 / 64, screenHeight * 6 / 8 },
-{ VK_NUMPAD3, screenWidth * 13 / 16, screenHeight * 6 / 8 },
-{ VK_NUMPAD2, screenWidth * 11 / 16, screenHeight * 6 / 8 },
-{ VK_NUMPAD1, screenWidth * 10 / 16, screenHeight * 6 / 8 },
-{ VK_NUMPAD6, screenWidth * 13 / 16, screenHeight * 5 / 8 }
-};
-*/
 
 // 畫圓形標記
 void drawCircle(int x, int y, int radius = 10, COLORREF color = RGB(255, 0, 0)) {
