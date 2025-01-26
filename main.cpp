@@ -9,7 +9,7 @@ using namespace std;
 // 定義 Key 類別
 class Key {
 public:
-    char keyCode;       // 按鍵代碼（例如 'W', 'A', 'S', 'D', ' '）
+    char keyCode;       // 按鍵代碼（例如: 'W', 'A', 'S', 'D', ' '）
     int x, y;           // 按鍵的螢幕座標
     bool pressed;       // 是否按下
     bool newState;      // 是否是新狀態
