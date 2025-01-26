@@ -100,8 +100,6 @@
 
 ---
 
-### README English Version
-
 # Keyboard Simulation and Key Press Recording Tool
 
 This tool simulates keyboard key presses and executes mouse clicks at specified screen positions. Users can customize key mappings by adding new keys and assigning specific screen click positions. The program is written in C++ and designed for Windows systems.
