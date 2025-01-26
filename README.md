@@ -96,7 +96,7 @@
 
 ---
 
-如有其他建議想法歡迎聯繫我
+如果你對這個專案有任何問題或建議，歡迎在此儲存庫開啟一個 Issue 與我交流。
 
 ---
 
@@ -195,3 +195,8 @@ This tool simulates keyboard key presses and executes mouse clicks at specified 
 ### LICENSE
 
 This program is intended for personal learning and research purposes only. Commercial use is not allowed without permission.
+
+---
+
+If you have any questions or suggestions regarding this project, feel free to open an Issue on this repository.
+
