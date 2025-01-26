@@ -110,6 +110,9 @@ This tool simulates keyboard key presses and executes mouse clicks at specified 
    - The program simulates mouse click actions for specified key presses and releases.
 2. **Visual Feedback**  
    - Displays circles on the screen corresponding to key positions, with different colors for pressed and unpressed states.
+   - ![image1](https://github.com/user-attachments/assets/ed885c9f-9e8e-4e36-b908-0a6518199353)
+   - ![image2](https://github.com/user-attachments/assets/cb5f3982-5aca-4e46-8aa6-3040b4a93922)
+
 3. **Dynamic Configuration**  
    - Users can add custom keys and define corresponding screen positions.
 
