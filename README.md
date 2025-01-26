@@ -1,4 +1,4 @@
-# cKeyToMouseClicker
+# KeyToMouseClicker
 
 # 簡易鍵盤模擬與按鍵記錄工具
 
