@@ -12,7 +12,9 @@
    - 程式會模擬指定按鍵按下與釋放時的滑鼠點擊行為，並可實時更新按鍵狀態。
 2. **畫面顯示**  
    - 程式會在螢幕上繪製按鍵對應的圓形位置，按鍵狀態不同（按下/未按下）會以不同顏色顯示。
-   - ![image](https://github.com/user-attachments/assets/9e4561a6-51c3-4524-8350-1ce5ee8fd374)
+   - ![image1](https://github.com/user-attachments/assets/ed885c9f-9e8e-4e36-b908-0a6518199353)
+   - ![image2](https://github.com/user-attachments/assets/cb5f3982-5aca-4e46-8aa6-3040b4a93922)
+
 3. **動態鍵盤配置**  
    - 使用者可以依需求新增鍵盤按鍵，並自訂按鍵對應的螢幕點擊位置。
 
