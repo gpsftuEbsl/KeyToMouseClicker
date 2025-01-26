@@ -1,4 +1,4 @@
-# click-screen-with-keyboard
+# cKeyToMouseClicker
 
 # 簡易鍵盤模擬與按鍵記錄工具
 
@@ -100,7 +100,7 @@
 
 ---
 
-# Keyboard Simulation and Key Press Recording Tool
+# KeyToMouseClicker
 
 This tool simulates keyboard key presses and executes mouse clicks at specified screen positions. Users can customize key mappings by adding new keys and assigning specific screen click positions. The program is written in C++ and designed for Windows systems.
 
